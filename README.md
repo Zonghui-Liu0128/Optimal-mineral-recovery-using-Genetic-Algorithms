@@ -126,20 +126,6 @@ This readme.md follows the Github Standard-Readme scheme
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-## Maintainers
-
-[Zonghui Liu](https://github.com/acse-zl1021)
-
-## Contributing
-
-All issues and PRs are warmly welcomed.
-
-### Contributors
-
-This software show respect to all group members who contribute
-
-[Haoran Cheng](https://github.com/acse-hc221),  [Hansong Xiao](https://github.com/acse-hx221),  [Zonghui Liu](https://github.com/Liuzonghui128),  [Xu Ma](https://github.com/acse-xm221),  [Can Dai](https://github.com/acse-cd321),  [Niranjana Sundararajan](https://github.com/acse-ns1321),  [Likai Wei](https://github.com/acse-lw521),  [Yiyu Lin](https://github.com/acse-yl421).
-
 ## License
 
 This software uses the MIT Open Source License
